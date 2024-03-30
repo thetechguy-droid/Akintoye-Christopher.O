@@ -24,19 +24,28 @@ const imageAltText = "purple and blue abstract background";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.";
+  "I am currently a student of Computer Sciences, where I am deeply engaged in exploring various facets of technology. My passion lies in creating innovative solutions and tackling challenges in cybersecurity and engineering. Additionally, I have a strong interest in web3 and blockchain security, as I believe in the transformative potential of decentralized technologies. Through my studies and practical experiences, I am committed to contributing to the advancement of cybersecurity practices and the development of secure, user-friendly systems. I am excited to continue learning and exploring new opportunities to merge my technical knowledge with creative problem-solving skills in the field of cybersecurity and beyond."";
 
 /**
  * List of some of skills or technologies you work on, are learning,
  * passionate about, or enjoy,
  */
 const skillsList = [
-  "Web design",
-  "User experience",
-  "Inclusive design",
-  "Focus group testing",
-  "Mobile user interfaces",
-  "Graphic design",
+  "HTML",
+  "CSS",
+  "AZURE",
+  "SPLUNK CORE",
+  "AWS",
+  "GOOGLE CHRONICLE",
+  "NMAP",
+  "BURP SUITE",
+  "METASPLOIT",
+  "GIT",
+  "MICROSOFT SENTINEL",
+  "JAVA",
+  "PYTHON",
+  "CRYPTOGRAPHY",
+
 ];
 
 /**
@@ -45,7 +54,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all.";
+  "As a security professional, engineer, and specialist in web3 and blockchain security, I am deeply passionate about solving challenges in innovative ways to drive progress and ensure the integrity of digital systems. My dedication to staying ahead of emerging threats and leveraging cutting-edge technologies allows me to continuously explore new avenues for enhancing security while maintaining accessibility for all users. I thrive on the opportunity to apply creative problem-solving skills to safeguard digital assets and enable the adoption of secure, decentralized technologies. 
 
 const About = () => {
   return (

@@ -31,28 +31,27 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "30 cybersecurity search engines for researchers.",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "In this article, I delved into the vast realm of cybersecurity research tools by compiling a comprehensive list of 30 specialized search engines tailored for cybersecurity professionals, students, and enthusiasts alike. ",
+    url: "https://www.linkedin.com/pulse/30-cybersecurity-search-engines-researchers-christopher-akintoye/?trackingId=WWeO4BUqTtixkAkhI1V6%2BQ%3D%3D",
   },
   {
-    title: "Web Development for Beginners",
-    description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
-  },
-  {
-    title: "My Resume Site",
-    description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
-  },
-  {
-    title: "GitHub Codespaces and github.dev",
-    description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
+    title: "GitHub Codespaces and GitHub.dev",
+    description: "Video interview to explain when to use GitHub.dev...",
     url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+  },
+  {
+    title: "RESUME/CERTIFICATES",
+    description:
+      "This contains my CV and certificates that attributes to my skill which includes my experience and skillset.",
+    url: "https://stdntpartners-my.sharepoint.com/:f:/g/personal/christopher_akintoye_studentambassadors_com/Emi85tDC3d1NvoqGQ6nM2_YBZJRgyCmr7DnF05ugX_cFFQ?e=UwffZr",
+  },
+  {
+    title: "Contribution to the DV App Security Layer",
+    description:
+      "I contributed to enhancing the security layer of the DV (Data Visualization) application by implementing robust security protocols, addressing vulnerabilities, and integrating advanced authentication mechanisms.",
+    url: "https://github.com/InventorsDev/sdg-007-frontend",
   },
 ];
 
