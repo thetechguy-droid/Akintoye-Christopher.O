@@ -30,7 +30,7 @@ const siteProps = {
   gitHub: "thetechguy-droid",
   instagram: "droid_hackerz",
   linkedIn: "Christopher Akintoye",
-  medium: "",
+  medium: "Christopher",
   twitter: "droid_hackerz",
   youTube: "Code",
 };
